@@ -2,7 +2,9 @@
 title: "Yan's Quarto website"
 ---
 
-This is a Quarto website.
+This is Yan's Quarto website.
+
+UBC MDS 2023-2024
 
 Still under construction...
 
